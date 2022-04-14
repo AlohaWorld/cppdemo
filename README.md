@@ -9,3 +9,7 @@ C++ Class Git Demo
 ## Output Hello world
 
   std::cout << "Hello, World!" << std::endl;
+
+## Output Aloha World
+
+  std::cout << "Alohaworld!";
